@@ -31,7 +31,7 @@ Soy Cristian Arcila, un desarrollador Full Stack especializado en el stack MERN 
 
 ## 📫 Cómo contactarme
 
-- **Email**: cristianarcila@proton.me(mailto:cristianarcila@proton.me)
+- **Email**: cristianarcila@proton.me
 - **LinkedIn**: [linkedin.com/in/cristian-arcila-33479b40/](https://www.linkedin.com/in/cristian-arcila-33479b40/)
 
 ---
