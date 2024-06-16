@@ -29,11 +29,6 @@ Soy Cristian Arcila, un desarrollador Full Stack especializado en el stack MERN 
 ## 📈 Estadísticas de GitHub
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&hide_border=true&theme=radical)
 
-## 🌟 Proyectos Destacados
-
-- [**Proyecto 1**](https://github.com/TUUSUARIO/proyecto1): Descripción breve del proyecto.
-- [**Proyecto 2**](https://github.com/TUUSUARIO/proyecto2): Descripción breve del proyecto.
-
 ## 📫 Cómo contactarme
 
 - **Email**: cristianarcila@proton.me(mailto:cristianarcila@proton.me)
